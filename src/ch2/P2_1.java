@@ -131,6 +131,6 @@ public class P2_1 {
 		if (pdata != null) {
 			System.out.println("结点为：" + i + pdata.key + pdata.name + pdata.age);
 		}
-
+		input.close();
 	}
 }
